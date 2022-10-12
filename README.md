@@ -6,4 +6,4 @@
 
 
 
-**P/S: The code does not include the decoder code for the 7-segment Led** :kissing_smiling_eyes:
+**P/S: The code does not include the decoder code for the 7-segment Led.** :kissing_smiling_eyes:
