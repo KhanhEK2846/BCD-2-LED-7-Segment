@@ -1,6 +1,7 @@
 # BCD-2-LED-7-Segment
 **The code will convert the binary number from 0 to 99 into two binary numbers from 0 to 9 to display on the 7-segment led.**
-**Code has been tested on Quartus II software**
+
+**Code has been tested on Quartus II software.**
 
 
 
